@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @COSMICSOUL26
+- 👋 Hi, I’m Chetan  Joshi
 - 👀 I’m interested in WebD and Data Science
 - 🌱 I’m currently learning Data Science and Web developement
 - 💞️ I’m looking to collaborate on Projects relating to Web developement and Machine learning
